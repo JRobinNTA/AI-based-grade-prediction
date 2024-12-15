@@ -85,7 +85,7 @@ The specific challenge is to build a predictive model that can:
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/JRobinNTA/AI-based-grade-prediction.git
 
 # Navigate to project directory
 cd grade-prediction-project
